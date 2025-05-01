@@ -36,9 +36,8 @@
 
 ### GitHub Stats
 
-<p align="center">
+<p>
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfredofilho&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&langs_count=6" alt="Top languages" />
-  <img width="550" src="https://github-readme-stats.vercel.app/api?username=AlfredoFilho&count_private=true&show_icons=true&hide=prs,issues,contribs&include_all_commits=true&disable_animations=true" alt="Stats" />
 </p>
 
 ---
